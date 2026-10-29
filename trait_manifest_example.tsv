@@ -1,0 +1,5 @@
+trait_id	label	pheno_file	trait_type	prevalence
+trait_01	Psychiatric disorder 1	trait_01.pheno	binary	0.02
+trait_02	Psychiatric disorder 2	trait_02.pheno	binary	0.05
+trait_03	Socioeconomic trait 1	trait_03.pheno	continuous	NA
+trait_04	Physical trait 1	trait_04.pheno	continuous	NA

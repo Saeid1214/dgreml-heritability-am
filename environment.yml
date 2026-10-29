@@ -1,0 +1,13 @@
+name: dgreml-am
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - plink=1.9
+  - r-base>=4.2
+  - r-data.table
+  - r-ggplot2
+# External binaries (not on conda), install separately:
+#   GCTA >= 1.94   https://yanglab.westlake.edu.cn/software/gcta/
+#   makeDGRM       https://zenodo.org/records/14429245 (Zhang et al. 2025)

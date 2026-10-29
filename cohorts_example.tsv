@@ -1,0 +1,3 @@
+cohort_id	genotype_pattern	keep_file
+cohortA	/path/to/genotypes/cohortA_chr{chr}	/path/to/keep/cohortA_unrelated_eur.txt
+cohortB	/path/to/genotypes/cohortB_chr{chr}	/path/to/keep/cohortB_unrelated_eur.txt
